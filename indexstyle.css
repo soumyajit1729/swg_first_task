@@ -1,0 +1,102 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+#heading{
+	background-color: #004e9b;
+	position: relative;
+	height: 85px;
+	width: 100%;
+}
+#facebook{
+	color: white;
+	font-size: 45px;
+	position: absolute;
+	left: 178px;
+	top: 23px;
+	font-family:  verdana;
+}
+.fm{
+	color: white;
+	position: absolute;
+	left: 790px;
+	top: 15px;
+}
+#fm1{
+	left: 790px;
+	top: 15px;
+}
+#fm2{
+	left: 950px;
+	top: 15px;
+}
+#login{
+	background-color: blue;
+	width: 70px;
+	height: 23px;
+	border:1px solid black;
+	margin-left: 5px;
+	color: white;
+	padding: 3px;
+}
+#newAccount{
+	position: absolute;
+	top: 110px;
+	left: 750px;
+	font-size: 22px;
+}
+.nm{
+	height: 40px;
+	width: 200px;
+	border-radius: 5px;
+	border:1px solid grey;
+	font-size: 25px;
+	padding: 5px;
+}
+#email{
+	height: 40px;
+	width: 410px;
+	border-radius: 5px;
+	border:1px solid grey;
+	font-size: 25px;
+	padding: 5px;
+	margin-top: 10px;
+}
+select {
+	height: 30px;
+	padding-right: 10px;
+}
+button {
+	height: 45px;
+	width: 210px;
+	padding: 10px;
+	background-color: #00b359;
+	border-radius: 10px;
+	border: 1px solid black;
+	color: white;
+}
+#footer{
+	height: 200px;width: 100%;position: absolute;background-color: white;
+	top: 730px;
+}
+#recentLogins{
+	position: absolute;
+	top: 100px;
+	left:178px;
+	width: 400px;
+	height: 250px;
+	font-family:  verdana;
+}
+.card {
+	height: 220px;
+	width: 170px;
+	overflow: auto;
+	background-color: white;
+	font-family:  verdana;
+}
+#card2 {
+	position: absolute;
+	left: 210px;
+	top: 90px;
+}
